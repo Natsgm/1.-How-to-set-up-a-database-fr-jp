@@ -2,7 +2,7 @@
 Je décris comment commencer la base de donné facilement chez vous
 
 **FR**
-
+s
 
 **JP**
 **データベース(DB)インストール方法**
